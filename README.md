@@ -11,6 +11,7 @@ Data Collection: Gather your listening history using Spotify’s API.
 Feature Extraction: Extract relevant features from the collected data to build a user profile.
 
 Getting Started
+
 To get started with the Spotify Recommendation Algorithm, follow these steps:
 
 Install Dependencies: Run pip install spotipy to install the necessary library.
